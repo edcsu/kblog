@@ -1,0 +1,28 @@
+/* Custom css for my site */
+
+body {
+        background-image: url(../images/alictb.jpg);
+
+
+}
+
+mark {
+        background-color: yellow;
+}
+
+#bpl {
+        color: red;
+        font-weight: bolder;
+}
+
+footer {
+            padding: 2e 0;
+            margin: 3em 0;
+            border-top: 1px solid #ddd;
+            color: #999;
+            text-align: center;
+}
+
+.glyphicon-fire {
+        color: red;
+}
